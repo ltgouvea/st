@@ -4,6 +4,7 @@ Current patches
 ---------------
 
 - Alpha
+- ScrollUp
 
 st - simple terminal
 --------------------
