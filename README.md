@@ -5,6 +5,7 @@ Current patches
 
 - Alpha
 - ScrollUp
+- Externalpipe
 
 st - simple terminal
 --------------------
